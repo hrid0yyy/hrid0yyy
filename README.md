@@ -46,7 +46,7 @@
 
 ## 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/hridoy-ahmed-659410226/) *(Update if you have one)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hridoy-ahmed-659410226/) 
 - 📧 Email: [hridoyahmedddd@gmail.com]
 - 💻 GitHub: [github.com/hridoyahmed](https://github.com/hrid0yyy)
 
