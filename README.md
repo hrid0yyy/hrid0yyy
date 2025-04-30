@@ -15,7 +15,11 @@
 
 ---
 
+My Github Stats
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrid0yyy&layout=compact&theme=radical)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrid0yyy&show_icons=true&theme=radical)
 
 ---
 
