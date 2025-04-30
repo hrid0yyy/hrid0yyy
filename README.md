@@ -15,6 +15,10 @@
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrid0yyy&layout=compact&theme=radical)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages  
