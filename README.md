@@ -1,4 +1,4 @@
-# 🌟 Hridoy Ahmed 🌟
+#  Hridoy Ahmed 
 
 🎓 I'm currently an undergraduate student at **United International University**.  
 💻 A passionate **competitive programmer** and a curious mind in the field of **AI and data analysis**.  
