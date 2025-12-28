@@ -1,4 +1,4 @@
-# Hi, I'm Hridoy Ahmed 👋
+# Hi, I'm Hridoy Ahmed 
 
 
 🎓 Undergraduate at **United International University**  
