@@ -1,22 +1,21 @@
 # Hi, I'm Hridoy Ahmed 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=hrid0yyy&color=blueviolet)
 
 🎓 Undergraduate at **United International University**  
-💻 **Backend Developer** | **AI/ML Enthusiast** | **Competitive Programmer**
+💻 **Backend Developer** | **AI/ML Enthusiast** 
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
-- 🔧 Build scalable backend systems and RESTful APIs
-- 🤖 Develop AI/ML applications (RAG systems, NLP, Computer Vision, ASR)
-- 📊 Analyze data to extract meaningful insights
-- 💡 Solve algorithmic problems on Codeforces, LeetCode, HackerRank
+-  Build scalable backend systems and RESTful APIs
+-  Develop AI/ML applications 
+-  Analyze data to extract meaningful insights
+-  Solve algorithmic problems on Codeforces, LeetCode, HackerRank
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
@@ -35,12 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrid0yyy&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrid0yyy&layout=compact&theme=radical&hide_border=true)
-
----
 
 ## 📫 Let's Connect
 
