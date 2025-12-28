@@ -1,7 +1,7 @@
 # Hi, I'm Hridoy Ahmed 
 
-🎓 Undergraduate at **United International University**  
-💻 **Backend Developer** | **AI/ML Enthusiast** | **Competitive Programmer**
+ Undergraduate at **United International University**  
+ **Backend Developer** | **AI/ML Enthusiast** | **Competitive Programmer**
 
 ---
 
